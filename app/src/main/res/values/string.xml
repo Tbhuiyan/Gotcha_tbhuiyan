@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gotcha_tbhuiyan</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_old_landing_page">OldLandingPage</string>
+    <string name="title_activity_login">LogIn</string>
+    <string name="title_activity_log_in">Log In</string>
+    <string name="title_activity_settings1">Settingssss</string>
+    <string name="title_activity_openingpage">Opening_Page</string>
+    <string name="title_activity_settingss">Settingss</string>
+    <string name="title_activity_settings2">Settingsss</string>
+    <string name="title_activity_register_page">RegisterPage</string>
+    <string name="title_activity_maps">Maps</string>
+
+</resources>
